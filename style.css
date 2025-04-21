@@ -1,0 +1,19 @@
+body{
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+#list{
+    width: 500px;
+    padding-left: 20px;
+    border: solid;
+    border-radius: 15px;
+}
+
+.title{
+    color: red;
+}
+
+.dlist{
+    text-decoration: none;
+}

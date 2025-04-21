@@ -1,0 +1,30 @@
+body{
+    padding-left: 30px;
+    padding-bottom: 500px;
+    background-color: aliceblue;
+}
+
+.photo{
+    width: 400px;
+    height: auto;
+    border-radius: 100px;
+    margin-bottom: 30px;
+}
+
+.alldiv{
+    background-color: red;
+    color: white;
+    border: solid;
+    border-color: brown;
+    border-width: 10px;
+    border-radius: 10px;
+    padding: 10px 20px 20px 10px;
+    width: 800px;
+}
+
+.home{
+    text-decoration: none;
+    padding-left: 250px;
+    font-size: 25px;
+    font-weight: 500;
+}
